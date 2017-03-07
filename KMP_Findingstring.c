@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define FNAME "data.txt"
+#define FNAME "input.txt"
 int * presuf(char *p,int *A,int n);
 int searcher(char *p,int *A,int n);
 void main()
